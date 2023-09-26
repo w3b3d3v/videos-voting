@@ -10,6 +10,15 @@ This Project has been created to decentralize the approval process of content to
 - **Ease of Implementation**: It is easy to understand and implement, making it accessible for a wide range of situations.
 - **Flexibility**: Voters have the freedom to express their preference for more than one option, allowing for a more comprehensive view of preferences.
 
+## Proposals Rules and Guidelines
+
+- **Proposal Expiration**: Proposals have a defined time limit for consideration.
+- **Self-Voting Restriction**: The proposer cannot vote on their own proposal.
+- **Minimum Votes**: Proposals require a minimum number of votes for approval.
+- **Priority Ranking**: Approved proposals are prioritized based on the number of votes received.
+- **Anonymous Suggestions**: Proposal suggestions are open and anonymous.
+- **Disclosure After Approval**: Proposals become non-anonymous if the proposer is a registered content creator.
+
 ## App Screens
 
 ### List of Proposals
@@ -32,7 +41,7 @@ This Project has been created to decentralize the approval process of content to
 
 - **Title**: [Enter the title of your proposal]
 - **Description**: [Enter a detailed description of your proposal]
-- **Timeframe**: [Specify the duration for proposal consideration]
+- **Video Duration**: [Specify the duration of the video]
 
 **Submit Proposal**
 
