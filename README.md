@@ -1,6 +1,6 @@
 # Videos Voting Platform 
 
-This GitHub Project Management Board has been created to decentralize the approval process of content to be published on our YouTube channel. We have chosen the "Approval Voting" method to achieve this decentralization. Below, you will find a simple and concise description of the main advantages and disadvantages of this voting method.
+This Project has been created to decentralize the approval process of content to be published on our YouTube channel. We have chosen the "Approval Voting" method to achieve this decentralization. Below, you will find a simple and concise description of the main advantages and disadvantages of this voting method.
 
 ## Voting Method: Approval Voting
 
